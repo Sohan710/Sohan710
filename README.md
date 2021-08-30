@@ -9,7 +9,7 @@
 - 📫 How to reach me: [Gmail](sohan.birajdar@gmail.com), [Linkdin](https://www.linkedin.com/in/sohan-birajdar-856871190/), [Twitter](https://twitter.com/Sohan7101)
 - 🙋‍♂️ My [Resume](https://drive.google.com/file/d/1EPainz5ZNKnHGPPdD5CQCTlpeDVTd__W/view?usp=sharing)
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer and a student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
