@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on new exciting porjects
 - 💬 Ask me about Web & App development, gaming
 - 📫 How to reach me: [Gmail](sohan.birajdar@gmail.com), [Linkdin](https://www.linkedin.com/in/sohan-birajdar-856871190/), [Twitter](https://twitter.com/Sohan7101)
-- 🙋‍♂️ My [Resume](https://drive.google.com/file/d/1EPainz5ZNKnHGPPdD5CQCTlpeDVTd__W/view?usp=sharing)
+- 🙋‍♂️ My [Resume](https://drive.google.com/file/d/1Kmy7qmyCJL6cVB3cAdef0TaAOn13TNQR/view?usp=sharing)
 <hr>
 <h3 align="center">A passionate developer and a student</h3>
 <hr>
