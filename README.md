@@ -1,11 +1,11 @@
 ### Hi there, I'm Sohan 👋
 
 - ✨ My [Portfolio](https://sohanb.netlify.app/)
-- 📚 Currently Computer Engineering Student
-- 🔭 I’m an intern at Datametica Solutions Private Limited. 
-- 🌱 I’m currently learning GCP and Big Query 
+- 📚 Currently pursuing Master's in Computer Science at University of North Carolina at Charlotte.
+- 🔭 I’m a graduate teaching assistant for the course of Computer Vision at UNC Charlotte. 
+- 🌱 I’m currently learning AWS, GCP and CI/CD pipeline.
 - 👯 I’m looking to explore new domains 
-- 💬 Ask me about Web & App development, gaming
+- 💬 Ask me about Web & App development, Cloud Computing.
 - 📫 How to reach me: [Gmail](sohan.birajdar@gmail.com), [Linkdin](https://www.linkedin.com/in/sohan-birajdar-856871190/), [Twitter](https://twitter.com/Sohan7101)
 - 🙋‍♂️ My [Resume](https://drive.google.com/file/d/1Kmy7qmyCJL6cVB3cAdef0TaAOn13TNQR/view?usp=sharing)
 <hr>
