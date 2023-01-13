@@ -26,12 +26,12 @@
 
 <h3 align="left">Stats:</h3>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=sohan710&show_icons=true&theme=dark)](https://github.com/sohan710)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Sohan710&show_icons=true&theme=dark)](https://github.com/Sohan710)
 
 <hr>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan710&theme=dark)](https://github.com/sohan710)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan710&theme=dark)](https://github.com/Sohan710)
 
 
 
